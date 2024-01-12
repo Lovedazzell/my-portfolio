@@ -1,0 +1,11 @@
+Model Information:
+* title:	Torsion Pendulum Clock - Animation
+* source:	https://sketchfab.com/3d-models/torsion-pendulum-clock-animation-cb84e55159e545428282d23c3995039d
+* author:	Scar56 (https://sketchfab.com/Scar56)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Torsion Pendulum Clock - Animation" (https://sketchfab.com/3d-models/torsion-pendulum-clock-animation-cb84e55159e545428282d23c3995039d) by Scar56 (https://sketchfab.com/Scar56) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
